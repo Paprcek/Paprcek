@@ -5,7 +5,7 @@
 # Hi there, I'm Monika! 👋 🐝
 ---
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=Believing+in+technology+as+a+tool;for+human+freedom...+not+a+master.+🐝" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=Believing+in+technology+as+a+tool...;for+human+freedom...+not+a+master.+🐝" alt="Typing SVG" />
 </p>
 <p align="left">
 
