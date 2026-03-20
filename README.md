@@ -33,5 +33,3 @@
 <p align="right">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Honeybee.png" alt="Honeybee" width="50" height="50" />
 </p>
-
-![snake svg](https://github.com/Paprcek/Paprcek/blob/output/github-contribution-grid-snake.svg)
