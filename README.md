@@ -26,7 +26,7 @@
 
 | Project | Stack | Status |
 |---|---|---|
-| **BNI Event Management** – event & invoice management SaaS | Zoho Creator · Zoho Catalyst · Deluge | 🟢 Live · 🔄 Migrating to multi-tenant |
+| **BNI Event Management** – event & invoice management | Zoho Creator · Deluge | 🟢 Live · 🔄 Expanding to more BNI Czechia groups |
 | **AI Ordering System** – intelligent order processing product | Zoho Catalyst · Gemini · Qdrant · RAG | 🔨 In development |
 | **paprcekmonimerka.cz** | Python · Docker · self-hosted | 🟢 Live |
 
